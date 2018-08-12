@@ -1,7 +1,7 @@
 #ifndef KORG_VOLCASAMPLE_PATTERN_H__
 #define KORG_VOLCASAMPLE_PATTERN_H__
 
-#include "korg_syro_type.h"
+#include "../syro/korg_syro_type.h"
 
 /*--------------------------------*/
 /*--------- Pattern Data ---------*/
